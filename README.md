@@ -38,7 +38,7 @@ Clone o repositório:
 
 Bash
 
-git clone https://github.com/SEU-USUARIO/nome-do-repositorio-coca-cola.git
+git clone https://github.com/LuanSantos-94/Projeto.Coca-Cola
 Acesse a pasta do projeto:
 
 Bash
